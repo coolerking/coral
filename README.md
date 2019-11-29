@@ -1,5 +1,7 @@
 # Coral Dev Board をつかった Donkey Car アプリケーション
 
+> **注意** :このリポジトリ上のコンテンツは、未テストです。
+
 Raspberry Pi のかわりに Coral Dev Board JP Version をつかったDonkey Carアプリケーションを提供します。
 
 ## Coral Dev Board の結線
